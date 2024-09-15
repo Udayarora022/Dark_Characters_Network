@@ -5,10 +5,10 @@
 
 Netflix's Dark is a German science fiction thriller web television series co-created by Baran bo Odar and Jantje Friese. This series plays with time travel theories and creates a complex network of relationships among its characters. **This repository contains the data and code for a network analysis visualization that tries to make it easier to understand the complex plot**.
 
-**The data was acquired by scraping [Dark's Fandom page](https://dark-netflix.fandom.com/), a collaborative platform for fans.**
+**The data was acquired by scraping [Dark's Fandom page](https://dark-netflix.fandom.com/)
 
 ## Live example
-[Click here to access the page and visualize the network](https://paulozip.github.io/dark_characters_network/)
+
 
 ### Requirements
 **Python**
